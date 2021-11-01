@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
-
+<img src="https://komarev.com/ghpvc/?username=congvmit&color=green" alt="profile views" /> 
 
 <!--
 **congvm-it/congvm-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
